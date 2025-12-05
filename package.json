@@ -1,0 +1,23 @@
+{
+  "name": "neighbournetk",
+  "version": "1.0.0",
+  "description": "A full-stack community support platform that allows users to request help and volunteers to respond. Built with React, Node.js, and SQL.",
+  "main": "db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZombiesmasherJT/NeighbourNetk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZombiesmasherJT/NeighbourNetk/issues"
+  },
+  "homepage": "https://github.com/ZombiesmasherJT/NeighbourNetk#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
